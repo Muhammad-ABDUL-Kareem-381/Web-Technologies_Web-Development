@@ -1,0 +1,9 @@
+Booked: : {"AppointmentID":782067,"DoctorID":309756,"PatientCNIC":"1","AppointmentDate":"2025-10-04T17:00:00"}
+Booked: : {"AppointmentID":429629,"DoctorID":815037,"PatientCNIC":"1","AppointmentDate":"2025-10-03T21:03:45"}
+Booked: : {"AppointmentID":510654,"DoctorID":815037,"PatientCNIC":"1","AppointmentDate":"2025-10-03T21:05:45"}
+Cancelled: : {"AppointmentID":510654,"DoctorID":815037,"PatientCNIC":"1","AppointmentDate":"2025-10-03T21:05:45"}
+Booked: : {"AppointmentID":864923,"DoctorID":309756,"PatientCNIC":"1","AppointmentDate":"2025-10-05T01:00:00"}
+Cancelled: : {"AppointmentID":429629,"DoctorID":815037,"PatientCNIC":"1","AppointmentDate":"2025-10-03T21:03:45"}
+Cancelled: : {"AppointmentID":864923,"DoctorID":309756,"PatientCNIC":"1","AppointmentDate":"2025-10-05T01:00:00"}
+Cancelled: : {"AppointmentID":782067,"DoctorID":309756,"PatientCNIC":"1","AppointmentDate":"2025-10-04T17:00:00"}
+Booked: : {"AppointmentID":646187,"DoctorID":309756,"PatientCNIC":"2","AppointmentDate":"2025-10-06T01:01:01"}

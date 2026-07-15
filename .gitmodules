@@ -1,0 +1,11 @@
+[submodule "HomeWork/Homework-1"]
+    path = HomeWork/Homework-1
+    url = https://github.com/Muhammad-ABDUL-Kareem-381/Student-Record-Management-System.git
+
+[submodule "HomeWork/Homework-5"]
+    path = HomeWork/Homework-5
+    url = https://github.com/Muhammad-ABDUL-Kareem-381/Travel-Booking-System.git
+
+[submodule "HomeWork/Homework-8"]
+    path = HomeWork/Homework-8
+    url = https://github.com/web-technologies-fall-2025/homework08-PUCIT-DEV.git

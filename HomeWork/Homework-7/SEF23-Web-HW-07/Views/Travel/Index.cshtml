@@ -1,0 +1,77 @@
+﻿@model List<SEF23_Web_HW_07.Models.Entities.TravelPackage>
+
+@* The view receives a list of TravelPackage objects to render available packages *@
+@{
+    ViewData["Title"] = "Travel Packages";
+    // Flag to track if any package meeting availability criteria was rendered
+    bool isAvalible = false;
+}
+
+<h2>Available Travel Packages</h2>
+
+<html>
+    <head>
+
+    </head>
+    <body>
+    @* If there are no packages at all, show a message *@
+    @if (Model.Count() == 0)
+    {
+        <p class="fw-bold text-center">
+            No travel packages available at the moment.
+        </p>
+    }
+    else
+    {
+        @* Render a table of packages *@
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Package Name</th>
+                    <th>Destination</th>
+                    <th>Duration</th>
+                    <th>Price</th>
+                    <th>Available Seats</th>
+                    <th>Package Details</th>
+                    <th>Book Package</th>
+                </tr>
+            </thead>
+            <tbody>
+                @* Loop through each package in the model *@
+                @foreach (var package in Model)
+                {
+                    @* Only show rows for packages with seats or future departure dates *@
+                    @if(package.AvailableSeats > 0 || package.DepartureDate >= DateTime.Now)
+                    {
+                        // Mark that at least one available package was rendered
+                        isAvalible = true;
+                        <tr>
+                            <td>@package.PackageName</td>
+                            <td>@package.Destination</td>
+                            <td>@package.Duration days</td>
+                            <td>Rs.@package.Price</td>
+                            <td>@package.AvailableSeats</td>
+                            @* Link to details - uses tag helpers to route to TravelController.Details *@
+                            <td> <a class="btn-link" asp-controller="Travel" asp-action="Details" asp-route-id="@package.PackageId"> Details </a> </td>
+                            @* Link to booking page - uses tag helpers to route to TravelController.Book *@
+                            <td> <a class="btn-link" asp-controller="Travel" asp-action="Book" asp-route-id="@package.PackageId"> Book </a></td>
+                        </tr>
+                    }
+                }
+                @* If no package met the availability criteria, show a table row message *@
+                @if(!isAvalible)
+                {
+                    <tr>
+                        <td colspan="7" class="fw-bold text-center">
+                            No available travel packages at the moment.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="container d-flex justify-content-center">
+            <a class="btn btn-success" asp-controller="Travel" asp-action="MyBooking">Bookings</a>
+        </div>
+    }
+    </body>
+</html>

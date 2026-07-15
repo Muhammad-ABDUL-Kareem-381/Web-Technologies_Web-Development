@@ -1,0 +1,89 @@
+﻿@using FurnitureEmporim.Models.Entities
+@model List<Product>
+
+@{
+    if (!(string.IsNullOrEmpty(ViewContext.HttpContext.Session.GetString("UserNameSession"))))
+        Layout = "_sessionLayout";
+    else
+        Layout = "_Layout";
+
+    ViewBag.Title = "Product";
+}
+
+<br>
+<br>
+
+<div class="bg-sky-300 rounded-lg shadow-md p-4 m-4">
+    <!-- Added `my-12` for vertical margins -->
+    <div class="flex items-center justify-between mb-4 space-x-4">
+        <div class="flex-grow">
+            <label for="search-product" class=" text-sm font-medium text-white">Search Product</label>
+            <input type="text" id="search-product" class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+        </div>
+        <div class="flex-grow">
+            <label for="select-category" class=" text-sm font-medium text-white">Select Category</label>
+            <select id="select-category" class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div class="flex-grow">
+            <label for="select-company" class=" text-sm font-medium text-white">Select Company</label>
+            <select id="select-company" class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div class="flex-grow">
+            <label for="sort-by" class=" text-sm font-medium text-white">Sort By</label>
+            <select id="sort-by" class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                <option value="a-z">A-Z</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="flex items-center justify-between mb-4 space-x-4">
+        <div class="flex-grow">
+            <label for="select-price" class=" text-sm font-medium text-white">Select Price</label>
+            <div class="mt-1 relative rounded-md shadow-sm">
+                <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                </div>
+                <input type="range" id="select-price" min="0" max="1000" value="1000" class="w-full rounded-md bg-gray-200 focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                    <span class="text-white sm:text-sm">$1,000.00</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex items-center justify-center space-x-4">
+        <button type="submit" class="bg-sky-400 hover:bg-sky-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">SEARCH</button>
+    </div>
+</div>
+
+<br>
+<br>
+<h1 class="title-font sm:text-4xl text-center text-5xl mb-4 font-medium text-gray-900">OUR PRODUCTS</h1>
+<!--Product Cards-->
+<!--1-->
+
+<div class="flex flex-wrap justify-center gap-4 p-4 m-4">
+    @foreach (var product in Model)
+    {
+    
+        <div class="flex flex-col items-center justify-center w-full max-w-sm mx-auto mb-8 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg cursor-pointer">
+            <a asp-action="ProductDetail" asp-controller="Products" asp-route-id="@product.Id">
+                <img src="/products/@product.ImageFileName" width="100" alt="Product Image" class="w-full h-64 rounded-lg shadow-md object-cover" />
+            </a>
+            <div class="w-56 -mt-10 overflow-hidden bg-white rounded-lg shadow-lg md:w-64 dark:bg-gray-800">
+                <h3 class="py-2 font-bold tracking-wide text-center text-gray-800 uppercase dark:text-white">@product.Name</h3>
+                <div class="flex items-center justify-between px-3 py-2 bg-gray-200 dark:bg-gray-700">
+                    <span class="font-bold text-gray-800 dark:text-gray-200">@product.Price$</span>
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@product.Id" class="px-2 py-1 text-xs font-semibold text-white uppercase transition-colors duration-300 transform bg-gray-800 rounded hover:bg-gray-700 dark:hover:bg-gray-600 focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none">Add To Cart</a>
+                </div>
+            </div>
+        </div>
+   
+    }
+</div>
+
+
+

@@ -1,0 +1,18 @@
+Deleted: {"Name":"KLAH","CNIC":"010001","Appointments":[]}
+Deleted: {"Name":"Muther","CNIC":"123","Appointments":[]}
+Added: {"Name":"Muther","CNIC":"123","Appointments":[]}
+Updated: {"Name":"M. Muther","CNIC":"123","Appointments":[]}
+Added: {"Name":"M.Haris","CNIC":"1234","Appointments":[]}
+Deleted: {"Name":"M.Haris","CNIC":"1234","Appointments":[]}
+Added: {"Name":"Asad","CNIC":"1","Appointments":[]}
+Added: {"Name":"Kareem","CNIC":"2","Appointments":[]}
+Added: {"Name":"Josaf","CNIC":"3","Appointments":[]}
+Added: {"Name":"Kasim","CNIC":"4","Appointments":[]}
+Updated: {"Name":"Noman","CNIC":"4","Appointments":[]}
+Deleted: {"Name":"Noman","CNIC":"4","Appointments":[]}
+Added: : {"Name":"Jackel","CNIC":"4","Appointments":[]}
+Updated: : {"Name":"Abdul Kareem","CNIC":"2","Appointments":[]}
+Deleted: : {"Name":"Jackel","CNIC":"4","Appointments":[]}
+Added: : {"Name":"Jackel","CNIC":"4","Appointments":[]}
+Added: : {"Name":"Muther","CNIC":"1234","Appointments":[]}
+Deleted: : {"Name":"Muther","CNIC":"1234","Appointments":[]}

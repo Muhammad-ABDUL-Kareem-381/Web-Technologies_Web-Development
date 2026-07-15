@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TravelBookingDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\travel\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\travel\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\travel\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\travel\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\models\\entities\\bookingwithpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\models\\entities\\bookingwithpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\models\\services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\models\\services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\models\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\models\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\travel\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\travel\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\views\\travel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\views\\travel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-07\\sef23-web-hw-07\\data\\migrations\\20251115163639_username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B148B58-6CF3-466F-BC55-DB0A947E5FD5}|SEF23-Web-HW-07\\SEF23-Web-HW-07.csproj|solutionrelative:sef23-web-hw-07\\data\\migrations\\20251115163639_username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T15:49:49.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T03:26:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Program.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Program.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Program.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:14:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TravelBookingDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TravelBookingDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-25T15:50:37.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:53:06.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingWithPackage.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Entities\\BookingWithPackage.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Models\\Entities\\BookingWithPackage.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Entities\\BookingWithPackage.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Models\\Entities\\BookingWithPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:51:52.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\MyBooking.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Travel\\MyBooking.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\MyBooking.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Travel\\MyBooking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T19:01:20.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T17:09:15.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:06:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:05:51.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T17:05:48.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwGcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:47:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:47:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SEF23-Web-HW-07\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-15T16:47:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251115163639_UserName.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Data\\Migrations\\20251115163639_UserName.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Data\\Migrations\\20251115163639_UserName.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Data\\Migrations\\20251115163639_UserName.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Data\\Migrations\\20251115163639_UserName.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:36:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:35:36.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Success.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Travel\\Success.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Success.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Travel\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:05:33.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Index.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Travel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Index.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Travel\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:05:32.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Details.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Travel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Details.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Travel\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:05:30.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Book.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Views\\Travel\\Book.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Views\\Travel\\Book.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Views\\Travel\\Book.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:05:28.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TravelService.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Services\\TravelService.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Models\\Services\\TravelService.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Services\\TravelService.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Models\\Services\\TravelService.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwMIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:05:18.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITravelService.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Interfaces\\ITravelService.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Models\\Interfaces\\ITravelService.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Models\\Interfaces\\ITravelService.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Models\\Interfaces\\ITravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:05:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Controllers\\TravelController.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Controllers\\TravelController.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Controllers\\TravelController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:54:20.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-07\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-07\\SEF23-Web-HW-07\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SEF23-Web-HW-07\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:34:57.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model List<SEF23_Web_HW_06.Models.Entities.CartItems>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container my-4">
+
+    <div class="mt-sm-3 mt-lg-4 text-center ">
+        <h2 class="text-danger mb-3 "> Cart Items </h2>
+    </div>
+
+    @if (Model.Count == 0)
+    {
+        <div class="alert alert-info text-center">
+            <p>Your cart is empty.</p>
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-striped align-middle text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var cartItem in Model)
+                    {
+                        <tr>
+                            <td>@cartItem.product.Name</td>
+                            <td>$@cartItem.product.Price</td>
+                            <td>@cartItem.Quantity</td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+<div class="d-flex justify-content-center gap-3 mt-4">
+    <a asp-controller="Account" asp-action="Home" class="btn btn-primary">Main Page</a>
+    <a asp-controller="Shop" asp-action="ProductList" class="btn btn-success">Continue Shopping</a>
+    <a asp-controller="Shop" asp-action="ClearCart" class="btn btn-danger">Clear Cart</a>
+</div>

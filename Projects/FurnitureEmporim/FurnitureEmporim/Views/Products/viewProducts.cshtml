@@ -1,0 +1,117 @@
+﻿@* @using FurnitureEmporim.Models.Entities
+@model List<Product>
+@{
+
+    Layout = "_adminLayout";
+
+
+    ViewBag.Title = "View Products";
+}
+
+<h1 class="title-font sm:text-4xl text-center text-5xl mb-4 font-medium text-gray-900">OUR PRODUCTS</h1>
+
+<table class="min-w-full bg-white border border-gray-200">
+    <thead class="bg-gray-200 text-gray-600">
+        <tr>
+            <th scope="col" class="px-6 py-3">ID</th>
+            <th scope="col" class="px-6 py-3">Name</th>
+            <th scope="col" class="px-6 py-3">Price</th>
+            <th scope="col" class="px-6 py-3">Category</th>
+            <th scope="col" class="px-6 py-3">Image</th>
+            <th scope="col" class="px-6 py-3">Created at</th>
+            <th scope="col" class="px-6 py-3">Action</th>
+        </tr>
+    </thead>
+
+    <tbody class="text-gray-700">
+        @foreach (var product in Model)
+        {
+            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Id</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Name</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Price$</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Category</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
+                    <img src="/products/@product.ImageFileName" width="100" alt="Product Image" class="rounded" />
+                </td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.CreatedAt.ToString("MM/dd/yyyy")</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
+                    <a class="bg-gray-100 bg-sky-300 text-blue-500 font-bold py-2 px-4 rounded text-sm" asp-controller="Products" asp-action="UpdateProduct" asp-route-id="@product.Id">Edit</a>
+                    <a class="bg-gray-100 bg-sky-300 text-blue-500 font-bold py-2 px-4 rounded text-sm" asp-controller="Products" asp-action="DeleteProduct" asp-route-id="@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> *@
+
+@using FurnitureEmporim.Models.Entities
+@model List<Product>
+
+@{
+    Layout = "_adminLayout";
+    ViewBag.Title = "View Products";
+}
+
+<h1 class="title-font sm:text-4xl text-center text-5xl mb-4 font-medium text-gray-900">OUR PRODUCTS</h1>
+
+<table class="min-w-full bg-white border border-gray-200">
+    <thead class="bg-gray-200 text-gray-600">
+        <tr>
+            <th scope="col" class="px-6 py-3">ID</th>
+            <th scope="col" class="px-6 py-3">Name</th>
+            <th scope="col" class="px-6 py-3">Price</th>
+            <th scope="col" class="px-6 py-3">Category</th>
+            <th scope="col" class="px-6 py-3">Image</th>
+            <th scope="col" class="px-6 py-3">Created at</th>
+            <th scope="col" class="px-6 py-3">Action</th>
+        </tr>
+    </thead>
+
+    <tbody class="text-gray-700">
+        @foreach (var product in Model)
+        {
+            <tr id="product-@product.Id" class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Id</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Name</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Price$</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.Category</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
+                    <img src="/products/@product.ImageFileName" width="100" alt="Product Image" class="rounded" />
+                </td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">@product.CreatedAt.ToString("MM/dd/yyyy")</td>
+                <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
+                    <a class="bg-gray-100 bg-sky-300 text-blue-500 font-bold py-2 px-4 rounded text-sm" asp-controller="Products" asp-action="UpdateProduct" asp-route-id="@product.Id">Edit</a>
+                    <button class="bg-gray-100 bg-sky-300 text-blue-500 font-bold py-2 px-4 rounded text-sm" onclick="deleteProduct(@product.Id)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<script type="text/javascript">
+    function deleteProduct(id) {
+        if (confirm("Are you sure you want to delete this product?")) {
+            $.ajax({
+                url: '@Url.Action("DeleteProduct", "Products")', // Correct URL to the action method
+                type: 'POST', // Use POST since you're modifying server state
+                data: { id: id }, // Pass product ID to the server
+                success: function (response) {
+                    if (response.success) {
+                        alert(response.message);
+                        $('#product-' + id).fadeOut(500, function () {
+                            $(this).remove(); // Remove the deleted product row from the table after fade out
+                        });
+                    } else {
+                        alert(response.message);
+                    }
+                },
+                error: function () {
+                    alert('An error occurred while trying to delete the product.');
+                }
+            });
+        }
+    }
+</script>
+
+ 

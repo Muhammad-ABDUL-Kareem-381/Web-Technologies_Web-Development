@@ -1,0 +1,47 @@
+﻿@model List<SEF23_Web_HW_06.Models.Entities.Product>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container my-4">
+
+    <div class="text-center mb-4">
+        <h2 class="text-danger">Product List</h2>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped align-middle text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>$@product.Price</td>
+                    </tr>
+                    <tr>
+                        <td class="text-start">
+                            <a asp-controller="Shop" asp-action="AddToCart" asp-route-id="@product.Id" class="btn btn-sm btn-primary"> Add to Cart </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="alert-success text-center m-auto">
+        <p>@TempData["msg"]</p>
+    </div>
+
+    <div class="d-flex flex-wrap justify-content-center gap-3 mt-4">
+        <a asp-controller="Account" asp-action="Home" class="btn btn-success">Main Page</a>
+        <a asp-controller="Shop" asp-action="Cart" class="btn btn-primary">Cart Items</a>
+    </div>
+
+</div>

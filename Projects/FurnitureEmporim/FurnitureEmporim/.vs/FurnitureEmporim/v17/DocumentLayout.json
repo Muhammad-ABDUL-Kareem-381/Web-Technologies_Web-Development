@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\shared\\_sessionlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\shared\\_sessionlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SAFI\\source\\repos\\FurnitureEmporim\\FurnitureEmporim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\views\\cart\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:views\\cart\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\models\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:models\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|e:\\sarfraz data\\6th semmester\\web networking\\furnitureemporim\\models\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8918B4-97B7-4C2E-92E9-C6DA6239420F}|FurnitureEmporim.csproj|solutionrelative:models\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T14:39:18.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SAFI\\source\\repos\\FurnitureEmporim\\FurnitureEmporim\\appsettings.json",
+              "ToolTip": "C:\\Users\\SAFI\\source\\repos\\FurnitureEmporim\\FurnitureEmporim\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T13:56:13.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAFoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:10:39.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_sessionLayout.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Shared\\_sessionLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_sessionLayout.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Shared\\_sessionLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_sessionLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:08:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:07:14.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\ProductDetail.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeToolTip": "Views\\Products\\ProductDetail.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:37:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:35:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:32:51.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwFUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:31:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartView.cshtml",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Cart\\CartView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\CartView.cshtml",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Views\\Cart\\CartView.cshtml",
+              "RelativeToolTip": "Views\\Cart\\CartView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T13:30:57.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Cart.cs",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Entities\\Cart.cs",
+              "RelativeToolTip": "Models\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:36:43.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\CartRepository.cs",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:46:57.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Interface\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Interface\\ICartRepository.cs",
+              "ToolTip": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\Models\\Interface\\ICartRepository.cs",
+              "RelativeToolTip": "Models\\Interface\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:44:49.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

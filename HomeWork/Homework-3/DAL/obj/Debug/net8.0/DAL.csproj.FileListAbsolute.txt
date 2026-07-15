@@ -1,0 +1,15 @@
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\bin\Debug\net8.0\DTO.dll
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\bin\Debug\net8.0\DTO.pdb
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\muthe\source\repos\SEF23-Web-HW-03\DAL\obj\Debug\net8.0\ref\DAL.dll

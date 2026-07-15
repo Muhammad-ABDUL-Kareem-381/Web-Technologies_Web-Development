@@ -1,0 +1,15 @@
+Deleted: {"DoctorID":132103,"Name":"Muther","Specialization":"SE","IsAvailable":true}
+Deleted: {"DoctorID":353441,"Name":"Muther","Specialization":"IT","IsAvailable":true}
+Added: {"DoctorID":202727,"Name":"Muther","Specialization":"SE","IsAvailable":true}
+Added: {"DoctorID":102391,"Name":"Abdul Kareem","Specialization":"Sleep Diseases","IsAvailable":true}
+Added: {"DoctorID":815037,"Name":"Saeed","Specialization":"HBF","IsAvailable":true}
+Updated: {"DoctorID":102391,"Name":"M. Abdul Kareem","Specialization":"AI","IsAvailable":true}
+Deleted: {"DoctorID":102391,"Name":"M. Abdul Kareem","Specialization":"AI","IsAvailable":true}
+Added: {"DoctorID":952314,"Name":"Abdul Kareem","Specialization":"SE","IsAvailable":true}
+Added: {"DoctorID":169720,"Name":"31414124112","Specialization":"34124x214c124x34cx141325cv24x","IsAvailable":true}
+Updated: {"DoctorID":169720,"Name":"31414124112","Specialization":"None","IsAvailable":true}
+Updated: {"DoctorID":169720,"Name":"Now","Specialization":"None","IsAvailable":true}
+Deleted: {"DoctorID":169720,"Name":"Now","Specialization":"None","IsAvailable":true}
+Added: : {"DoctorID":309756,"Name":"Johan","Specialization":"ARC","IsAvailable":true}
+Updated: : {"DoctorID":202727,"Name":"M.Muther","Specialization":"SE","IsAvailable":true}
+Deleted: : {"DoctorID":202727,"Name":"M.Muther","Specialization":"SE","IsAvailable":true}

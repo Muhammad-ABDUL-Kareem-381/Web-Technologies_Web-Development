@@ -1,0 +1,20 @@
+﻿@* View that displays a simple booking success message *@
+@{
+    // Set the page title shown by the layout
+    ViewData["Title"] = "Success";
+}
+
+<html>
+    <head>
+        @* Head left empty — layout may supply styles/scripts *@
+    </head>
+    <body>
+        @* Display the booking confirmation message passed via ViewBag.Booking *@
+        <p class="text-center">
+            <h1>@ViewBag.Booking</h1>
+        </p>
+
+        @* Link back to the package listing *@
+        <a class="btn-link" asp-action="Index">Back to Packages</a>
+    </body>
+</html>

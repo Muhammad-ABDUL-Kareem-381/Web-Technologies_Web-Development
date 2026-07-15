@@ -1,0 +1,59 @@
+﻿@model SEF23_Web_HW_07.Models.Entities.TravelPackage
+@{
+    // Set the title shown by the layout
+    ViewData["Title"] = "Book Package";
+}
+
+<html>
+    <head>
+        @* Head left empty - layout typically provides styles/scripts *@
+    </head>
+    <body>
+        <h1 class="text-center">Book Package</h1>
+
+        @* Card showing selected package summary *@
+        <div class="card p-4">
+            <h4>@Model.PackageName</h4>
+            <p><b>Destination:</b> @Model.Destination</p>
+            <p><b>Duration:</b> @Model.Duration days</p>
+            <p><b>Price:</b> $@Model.Price</p>
+            <p><b>Available Seats:</b> @Model.AvailableSeats</p>
+            <p><b>Departure Date:</b> @Model.DepartureDate.ToShortDateString()</p>
+        </div>
+
+        @* Booking form posts back to the same action (POST handler) *@
+        <form asp-action="Book" method="post">
+            
+            @* Include package id so server knows which package is being booked *@
+            <input type="hidden" name="PackageId" value="@Model.PackageId" />
+
+            @* Customer name input (required) *@
+            <div class="mb-3">
+                <label class="form-label">Customer Name</label>
+                <input type="text" class="form-control" id="CustomerName" name="CustomerName" required />
+           </div>
+
+           @* Customer email input (required, email type for basic browser validation) *@
+           <div class="mb-3">
+               <label class="form-label">Customer Email</label>
+               <input type="email" class="form-control" id="CustomerEmail" name="CustomerEmail" required />
+           </div>
+
+           @* Number of travelers - constrained by available seats and minimum 1 *@
+           <div class="mb-3">
+              <label class="form-label">Number of Travelers</label>
+              <input type="number" class="form-control" id="NumberOfTravelers" name="NumberOfTravelers" required min="1" max="@Model.AvailableSeats" />
+           </div>
+           
+           @* Submit the booking *@
+           <button type="submit" class=" btn-success">Confirm Booking</button>
+
+        </form>
+
+        @* Link back to the list of packages *@
+        <a class="btn btn-warning mt-2 " asp-controller="Travel" asp-action="Index">Back to Packages</a>
+    </body>
+</html>
+
+
+

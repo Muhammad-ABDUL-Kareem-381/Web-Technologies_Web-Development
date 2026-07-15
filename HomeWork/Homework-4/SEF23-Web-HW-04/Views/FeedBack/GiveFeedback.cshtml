@@ -1,0 +1,44 @@
+﻿@model SEF23_Web_HW_04.Models.FeedBack
+@{
+    // Set the page title for the browser tab
+    ViewData["Title"] = "Give FeedBack";
+}
+
+@* Form to submit feedback *@
+<html>
+    <head>
+        @* Head section can be used for additional styles or scripts if needed *@
+    </head>
+    <body>
+        @* Page heading *@
+        <h2> Submit Your Feedback </h2>
+
+        @* Feedback submission form *@
+        <form asp-action="GiveFeedback" method="post">
+            <div class="form-group">
+                @* Input for student name (required) *@
+                <label> Student Name* </label>
+                <input asp-for="StudentName" class="form-control" required  />
+            </div>
+            <div class="form-group">
+                @* Input for course name (required) *@
+                <label> Course* </label>
+                <input asp-for="Course" class="form-control" required />
+            </div>
+            <div class="form-group">
+                @* Textarea for optional comments *@
+                <label> Comments </label>
+                <textarea asp-for="Comments" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                @* Input for rating (required, 0-10) *@
+                <label> Rating (0-10)* </label>
+                <input asp-for="Rating" min="0" max="10" class="form-control" required />
+            </div>
+            @* Submit button *@
+            <button type="submit" class="btn btn-primary mt-2"> Submit</button>
+        </form>
+    </body> 
+</html>
+
+

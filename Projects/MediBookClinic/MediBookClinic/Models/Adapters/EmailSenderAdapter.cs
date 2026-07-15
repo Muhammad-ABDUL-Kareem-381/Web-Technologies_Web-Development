@@ -1,0 +1,20 @@
+﻿using MediBookClinic.Models.Interfaces.Service;
+using Microsoft.AspNetCore.Identity.UI.Services;
+
+namespace MediBookClinic.Models.Adapters
+{
+    public class EmailSenderAdapter : IEmailSender
+    {
+        private readonly IEmailService _emailService;
+
+        public EmailSenderAdapter(IEmailService emailService)
+        {
+            _emailService = emailService;
+        }
+
+        public async Task SendEmailAsync(string email, string subject, string htmlMessage)
+        {
+            await _emailService.SendEmailAsync(email, subject, htmlMessage);
+        }
+    }
+}

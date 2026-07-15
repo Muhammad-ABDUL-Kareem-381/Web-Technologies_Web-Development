@@ -1,0 +1,5 @@
+1, Liyue Harbor Theme, Yu-Peng Chen (HOYO-MiX), 3.45, Game OST, True, 0
+2, Wildfire, HOYO-MiX feat. Xueran Chen, 4.2, Soundtrack / Vocal, True, 0
+3, Glasgow Smile, HOYO-MiX, 2.75, Battle Theme, False, 0
+4, City on the Other Side, HOYO-MiX, 3.9, Electronic / Ambient, True, 0
+5, Interstellar Journey, HOYO-MiX, 5.1, Orchestral, False, 0

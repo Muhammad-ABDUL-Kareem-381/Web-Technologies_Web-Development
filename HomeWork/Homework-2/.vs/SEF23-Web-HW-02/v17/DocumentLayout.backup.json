@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Songs/True/SqlTable/dbo.Songs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\musicdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\musicdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-02\\sef23-web-hw-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EFE60-513E-460F-97DE-DC58980D7FFC}|SEF23-Web-HW-02\\SEF23-Web-HW-02.csproj|solutionrelative:sef23-web-hw-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Songs.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\Songs.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Songs.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\Songs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:48:35.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\FileManager.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\FileManager.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\FileManager.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\FileManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:07:37.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaylistManager.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\PlaylistManager.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\PlaylistManager.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\PlaylistManager.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\PlaylistManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:08:01.345Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\MusicDatabase.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\MusicDatabase.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\MusicDatabase.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\MusicDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:18:58.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Songs.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Songs/True/SqlTable/dbo.Songs.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Songs/True/SqlTable/dbo.Songs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T16:59:45.497Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Functions.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\Functions.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Functions.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\Functions.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAlwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:17:08.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Program.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-02\\Program.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-02\\SEF23-Web-HW-02\\Program.cs",
+              "RelativeToolTip": "SEF23-Web-HW-02\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:34:53.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@model SEF23_Web_HW_04.Models.FeedBack
+@{
+    // Set the page title for the browser tab
+    ViewData["Title"] = "FeedBack Summary";
+}
+
+@* Display submitted feedback summary *@
+<html>
+    <head>
+        @* Head section can be used for additional styles or scripts if needed *@
+    </head>
+    <body>
+        @* Page heading *@
+        <h2> Feedback Summary </h2>
+
+        @* Form to display the submitted feedback details *@
+        <form asp-action="FeedbackSummary" method="get">
+            <div class="form-group">
+                @* Display student name *@
+                <label> Student Name: </label>
+                <output class="form-control"> @Model.StudentName </output>
+            </div>
+            <div class="form-group">
+                @* Display course name *@
+                <label> Course: </label>
+                <output class="form-control"> @Model.Course </output>
+            </div>
+            <div class="form-group">
+                @* Display comments, preserving line breaks *@
+                <label> Comments: </label>
+                <output class="form-control" style="white-space: pre-wrap"> @Model.Comments </output>
+            </div>
+            <div class="form-group">
+                @* Display rating value *@
+                <label> Rating (0-10): </label>
+                <output class="form-control"> @Model.Rating </output>
+            </div>
+
+            @* Navigation buttons *@
+            <a class="btn btn-primary mt-2" asp-controller="FeedBack" asp-action="Index"> Back to Home</a>
+            <a class="btn btn-success mt-2" asp-controller="FeedBack" asp-action="GiveFeedback"> Add another Feedback</a>
+            <a class="btn btn-secondary mt-2" asp-controller="FeedBack" asp-action="AllFeedbacks"> View All Feedbacks</a>
+        </form>
+    </body>
+</html>

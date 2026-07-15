@@ -1,0 +1,17 @@
+﻿@using FurnitureEmporim.Models.Entities
+@model FurnitureEmporim.Models.Entities.Userss
+
+<table style="width: 500px; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 3px solid black; padding: 10px; background-color: #f2f2f2;">Email</th>
+            <th style="border: 3px solid black; padding: 10px; background-color: #f2f2f2;">Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 3px solid black; padding: 10px;">@Model.Email</td>
+            <td style="border: 3px solid black; padding: 10px;">@Model.Password</td>
+        </tr>
+    </tbody>
+</table>

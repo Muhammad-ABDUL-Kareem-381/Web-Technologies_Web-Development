@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dal\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|solutionrelative:dal\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dal\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|solutionrelative:dal\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dto\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|solutionrelative:dto\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\bll\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|solutionrelative:bll\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\bll\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|solutionrelative:bll\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dal\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|solutionrelative:dal\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\bll\\hospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|solutionrelative:bll\\hospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dto\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|solutionrelative:dto\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dto\\hospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|solutionrelative:dto\\hospitalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dto\\doctorconsulted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|solutionrelative:dto\\doctorconsulted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dto\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908089E1-CAD0-4ABB-8467-91D0838EF6D0}|DTO\\DTO.csproj|solutionrelative:dto\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dal\\doctorconsulted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|solutionrelative:dal\\doctorconsulted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E982DE7E-E488-4C15-851A-9C8320F39975}|SEF23-Web-HW-03\\SEF23-Web-HW-03.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\sef23-web-hw-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E982DE7E-E488-4C15-851A-9C8320F39975}|SEF23-Web-HW-03\\SEF23-Web-HW-03.csproj|solutionrelative:sef23-web-hw-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Appointment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A924369E-3EB0-413F-934E-D690DA026CE8}|PL\\PL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\pl\\menu-based-interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A924369E-3EB0-413F-934E-D690DA026CE8}|PL\\PL.csproj|solutionrelative:pl\\menu-based-interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Doctor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Patient.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\bll\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8492A07-B90C-42AF-A4B9-8ACBB2CC4F37}|BLL\\BLL.csproj|solutionrelative:bll\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-03\\dal\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB75A2-DBDE-47E6-8632-E23F05DBBF1C}|DAL\\DAL.csproj|solutionrelative:dal\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 224,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Doctor.cs",
+              "RelativeDocumentMoniker": "DTO\\Doctor.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Doctor.cs",
+              "RelativeToolTip": "DTO\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:20:41.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Patient.cs",
+              "RelativeDocumentMoniker": "DTO\\Patient.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Patient.cs",
+              "RelativeToolTip": "DTO\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:23:20.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Appointment.cs",
+              "RelativeDocumentMoniker": "DTO\\Appointment.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\Appointment.cs",
+              "RelativeToolTip": "DTO\\Appointment.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:32:52.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Logger.cs",
+              "RelativeDocumentMoniker": "DAL\\Logger.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Logger.cs",
+              "RelativeToolTip": "DAL\\Logger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:21:37.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Doctor.cs",
+              "RelativeDocumentMoniker": "BLL\\Doctor.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Doctor.cs",
+              "RelativeToolTip": "BLL\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:21:49.237Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Patient.cs",
+              "RelativeDocumentMoniker": "BLL\\Patient.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Patient.cs",
+              "RelativeToolTip": "BLL\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:26:43.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Appointment.cs",
+              "RelativeDocumentMoniker": "BLL\\Appointment.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\Appointment.cs",
+              "RelativeToolTip": "BLL\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:25:12.631Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Doctor.cs",
+              "RelativeDocumentMoniker": "DAL\\Doctor.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Doctor.cs",
+              "RelativeToolTip": "DAL\\Doctor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:43:58.096Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Patient.cs",
+              "RelativeDocumentMoniker": "DAL\\Patient.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Patient.cs",
+              "RelativeToolTip": "DAL\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4v0kAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:20:10.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Appointment.cs",
+              "RelativeDocumentMoniker": "DAL\\Appointment.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\Appointment.cs",
+              "RelativeToolTip": "DAL\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:19:33.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\SEF23-Web-HW-03\\Program.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-03\\Program.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\SEF23-Web-HW-03\\Program.cs",
+              "RelativeToolTip": "SEF23-Web-HW-03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:20:04.385Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalSystem.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\HospitalSystem.cs",
+              "RelativeDocumentMoniker": "DTO\\HospitalSystem.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\HospitalSystem.cs",
+              "RelativeToolTip": "DTO\\HospitalSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:38:02.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalSystem.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\HospitalSystem.cs",
+              "RelativeDocumentMoniker": "BLL\\HospitalSystem.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\BLL\\HospitalSystem.cs",
+              "RelativeToolTip": "BLL\\HospitalSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:02:42.908Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu-based-Interface.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\PL\\Menu-based-Interface.cs",
+              "RelativeDocumentMoniker": "PL\\Menu-based-Interface.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\PL\\Menu-based-Interface.cs",
+              "RelativeToolTip": "PL\\Menu-based-Interface.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAAE4BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:11:17.213Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorConsulted.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\DoctorConsulted.cs",
+              "RelativeDocumentMoniker": "DTO\\DoctorConsulted.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DTO\\DoctorConsulted.cs",
+              "RelativeToolTip": "DTO\\DoctorConsulted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:09:32.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorConsulted.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\DoctorConsulted.cs",
+              "RelativeDocumentMoniker": "DAL\\DoctorConsulted.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-03\\DAL\\DoctorConsulted.cs",
+              "RelativeToolTip": "DAL\\DoctorConsulted.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:14:49.366Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Appointment.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Appointment.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Appointment.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-03T12:32:56.983Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Doctor.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Doctor.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Doctor.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-03T09:50:51.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Patient.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Patient.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Hospital_Management_System/True/SqlTable/dbo.Patient.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-03T09:52:07.407Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

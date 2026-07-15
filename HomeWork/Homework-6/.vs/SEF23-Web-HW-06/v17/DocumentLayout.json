@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\views\\account\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\views\\account\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\views\\shop\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\views\\shop\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\entities\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\entities\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|c:\\users\\muthe\\source\\repos\\sef23-web-hw-06\\sef23-web-hw-06\\models\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E956683-E86C-459C-8E5D-8216514D8B2D}|SEF23-Web-HW-06\\SEF23-Web-HW-06.csproj|solutionrelative:sef23-web-hw-06\\models\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Program.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Program.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Program.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:34:29.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:27:13.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:07:28.097Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\Account.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:46:29.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:18:29.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shop\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Views\\Shop\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shop\\ProductList.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Views\\Shop\\ProductList.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T12:24:50.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:23:36.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:20:49.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Services\\ProductService.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:37:23.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:27:43.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shop\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Views\\Shop\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shop\\Cart.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Views\\Shop\\Cart.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T13:15:20.338Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Account\\Home.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Views\\Account\\Home.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Account\\Home.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Views\\Account\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T11:17:53.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T11:37:56.045Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\CartItems.cs",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Models\\Entities\\CartItems.cs",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Models\\Entities\\CartItems.cs",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Models\\Entities\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:09:47.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SEF23-Web-HW-06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\source\\repos\\SEF23-Web-HW-06\\SEF23-Web-HW-06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SEF23-Web-HW-06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:16:01.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

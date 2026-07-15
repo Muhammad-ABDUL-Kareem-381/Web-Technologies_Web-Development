@@ -1,0 +1,63 @@
+﻿@using FurnitureEmporim.Models.Entities
+@model List<Product>
+
+@{
+    if (!(string.IsNullOrEmpty(ViewContext.HttpContext.Session.GetString("UserNameSession"))))
+        Layout = "_sessionLayout";
+
+    ViewBag.Title = "Furniture Emporium";
+}
+
+<!--Intro Section -->
+<section class="text-gray-600 body-font">
+    <div class="container px-5 py-24 mx-auto flex flex-wrap">
+        <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10">
+            <div class="w-full sm:p-4 px-4 mb-6">
+                <h1 class="flex flex-wrap space-x-4 title-font font-bold text-5xl mb-2 text-gray-900">We are changing the way people shop</h1>
+                <div class="leading-relaxed">Browse, choose, and relax – we handle the rest. Your<br> home, your style, our passion.</div>
+            </div>
+            <a href="/Products/Index" class="relative px-3 py-2 hover:bg-sky-400 text-white cursor-pointer rounded bg-sky-300 transition-all duration-200">Our Products</a>
+        </div>
+        <div class="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
+            <img src="~/images/homePic1.jpg" alt="some image" />
+        </div>
+    </div>
+</section>
+
+<!-- Separating Line -->
+
+<div class="w-full sm:p-4 px-4 mb-6">
+    <h1 class="flex flex-wrap space-x-4 title-font font-bold text-5xl mb-2 text-gray-900">Our Featured Products</h1>
+</div>
+
+<div class="flex justify-center py-8">
+    <hr class="w-7/12 border-t-2 border-black" />
+</div>
+
+<div class="flex flex-wrap justify-center gap-4 p-4 m-4">
+    @for (int i=0; i<3; i++)
+    {
+        <div class="flex flex-col items-center justify-center w-full max-w-sm mx-auto mb-8 ">
+            <a asp-action="ProductDetail" asp-controller="Products" asp-route-id="@Model[i].Id">
+                <img src="/products/@Model[i].ImageFileName" width="100" alt="Product Image" class="w-full h-64 rounded-lg shadow-md object-cover" />
+            </a>
+            <div class="w-56 -mt-10 overflow-hidden bg-white rounded-lg shadow-lg md:w-64 dark:bg-gray-800">
+                <h3 class="py-2 font-bold tracking-wide text-center text-gray-800 uppercase dark:text-white">@Model[i].Name</h3>
+                <div class="flex items-center justify-between px-3 py-2 bg-gray-200 dark:bg-gray-700">
+                    <span class="font-bold text-gray-800 dark:text-gray-200">@Model[i].Price$</span>
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model[i].Id" class="px-2 py-1 text-xs font-semibold text-white uppercase transition-colors duration-300 transform bg-gray-800 rounded hover:bg-gray-700 dark:hover:bg-gray-600 focus:bg-gray-700 dark:focus:bg-gray-600 focus:outline-none">Add To Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+
+<div class="mt-8">
+    <form asp-action="Index" asp-controller="Products" method="post">
+        <input type="hidden" name="id" />
+        <button type="submit" class="bg-sky-300 text-white py-2 px-2 rounded w-full hover:bg-sky-400">
+            MORE PRODUCTS
+        </button>
+    </form>
+</div>

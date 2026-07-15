@@ -1,0 +1,75 @@
+﻿@using FurnitureEmporim.Models.Entities
+@model Product
+
+
+@{
+    if (!(string.IsNullOrEmpty(ViewContext.HttpContext.Session.GetString("UserNameSession"))))
+        Layout = "_sessionLayout";
+    else
+        Layout = "_Layout";
+
+    ViewBag.Title = "Product Details";
+}
+
+
+<section class="min-h-screen text-black body-font overflow-hidden">
+        <div class="w-full px-4 md:px-6 lg:px-8 lg:max-w-6xl mx-auto py-12">
+    <div class="max-w-2xl bg-white rounded-lg shadow-lg overflow-hidden flex">
+        <!-- Product Image Section -->
+        <div class="w-1/2 p-4 flex items-center">
+            
+                <img src="/products/@Model.ImageFileName" width="100" alt="Product Image" class="w-2/5 h-2/5 object-cover rounded-lg mx-auto" />
+        </div>
+
+        <!-- Product Details Section -->
+        <div class="w-1/2 p-8">
+            <h2 class="text-3xl font-bold text-gray-900">@Model.Name</h2>
+            <span class="text-lg font-semibold text-gray-500 block mt-2">HomeStead</span>
+            <p class="text-xl text-gray-800 mt-4">$@Model.Price</p>
+            <p class="mt-4 text-gray-600">
+                @Model.Description
+            </p>
+
+            <!-- Colors Section -->
+            <div class="mt-6">
+                <h4 class="text-lg font-bold text-gray-800">Colors</h4>
+                <div class="flex mt-2">
+                    <span class="w-6 h-6 rounded-full bg-red-500 border-2 border-gray-200 mr-2"></span>
+                    <select class="mt-2 w-24 px-3 py-2 border rounded-lg text-gray-800">
+                        <option>White</option>
+                        <option>Blue</option>
+                        <option>Black</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Quantity Section -->
+            <div class="mt-6">
+                <h4 class="text-lg font-bold text-gray-800">Amount</h4>
+                <select class="mt-2 w-24 px-3 py-2 border rounded-lg text-gray-800">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                </select>
+            </div>
+
+            <!-- Add to Bag Button -->
+                <div class="mt-8">
+                    <form asp-action="AddToCart" asp-controller="Cart" method="post">
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        <button type="submit" class="bg-sky-300 text-white py-2 px-4 rounded w-full hover:bg-sky-400">
+                            ADD TO BAG
+                        </button>
+                    </form>
+                </div>
+
+        </div>
+    </div>
+</div>
+</section>
+
+ 
+
+    
+
+

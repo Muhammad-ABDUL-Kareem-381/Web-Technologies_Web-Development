@@ -1,0 +1,14 @@
+﻿CREATE INDEX IX_Doctors_UserId ON Doctors(UserId);
+CREATE INDEX IX_Doctors_Specialization ON Doctors(Specialization);
+CREATE INDEX IX_Doctors_IsAvailable ON Doctors(IsAvailableForBooking);
+CREATE INDEX IX_Patients_UserId ON Patients(UserId);
+CREATE INDEX IX_Appointments_PatientId ON Appointments(PatientId);
+CREATE INDEX IX_Appointments_DoctorId ON Appointments(DoctorId);
+CREATE INDEX IX_Appointments_Date ON Appointments(AppointmentDate);
+CREATE INDEX IX_Appointments_Status ON Appointments(Status);
+CREATE INDEX IX_Appointments_Date_Status ON Appointments(AppointmentDate, Status);
+CREATE INDEX IX_DoctorAvailability_DoctorId ON DoctorAvailability(DoctorId);
+CREATE INDEX IX_DoctorAvailability_DayOfWeek ON DoctorAvailability(DayOfWeek);
+CREATE INDEX IX_Notifications_UserId ON Notifications(UserId);
+CREATE INDEX IX_Notifications_UserId_IsRead ON Notifications(UserId, IsRead);
+CREATE INDEX IX_AppointmentReviews_DoctorId ON AppointmentReviews(DoctorId);

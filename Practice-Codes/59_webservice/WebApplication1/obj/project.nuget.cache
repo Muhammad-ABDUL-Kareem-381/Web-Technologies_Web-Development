@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCMjcWtAQrp2ua9kCk7GsoI+L3yRFHrFw/c9Xgx/6+gclgvYx2rejRbyrYeP0ZKKCx93tcohk1+XOlCaLunQQA==",
+  "success": true,
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\59_webservice\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

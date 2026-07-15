@@ -1,0 +1,35 @@
+﻿@{
+    if (!(string.IsNullOrEmpty(ViewContext.HttpContext.Session.GetString("UserNameSession"))))
+        Layout = "_sessionLayout";
+
+    ViewBag.Title = "About";
+}
+
+
+
+
+
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p> FurnitureEmporium</p>
+    </section>
+
+    <section class="our-hotel">
+        <h2>Our Store</h2>
+        <hr>
+        <p>
+            Maecenas feugiat mattis ipsum, vitae semper massa porttitor sit amet. Nulla mattis, urna et posuere ornare, neque leo dapibus ante, nec dignissim massa felis sed nulla. Donec porttitor nulla et tristique dignissim. Cras
+            vulputate iaculis metus ac rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque vel justo.
+        </p>
+        <p>
+            Nam eget nulla in nibh gravida condimentum non sed nisi. Integer ipsum nisl, porta id venenatis quis, fringilla ac est nulla lorem nunc, viverra at aliquet at. Nunc et tincidunt nisl. Etiam vitae lobortis eros. Cras quis vehicula
+            odio. Ut euismod nunc quis nisi facilisis dapibus. Vestibulum dignissim sem id velit dignissim ornare.
+        </p>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Furniture Emporium. All rights reserved.</p>
+        </div>
+    </footer>

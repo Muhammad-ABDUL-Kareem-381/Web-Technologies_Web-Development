@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FurnitureEmporim.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FurnitureEmporim.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\css\\output.css",
+      "PackagePath": "staticwebassets\\css\\output.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\bed1.jpg",
+      "PackagePath": "staticwebassets\\images\\bed1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\chair1.jpg",
+      "PackagePath": "staticwebassets\\images\\chair1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\furniture.jpg",
+      "PackagePath": "staticwebassets\\images\\furniture.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\home-button.png",
+      "PackagePath": "staticwebassets\\images\\home-button.png"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\homePic1.jpg",
+      "PackagePath": "staticwebassets\\images\\homePic1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\sofa1.jpg",
+      "PackagePath": "staticwebassets\\images\\sofa1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\wood1.jpg",
+      "PackagePath": "staticwebassets\\images\\wood1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\images\\wood2.jpg",
+      "PackagePath": "staticwebassets\\images\\wood2.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\1.PNG",
+      "PackagePath": "staticwebassets\\products\\1.PNG"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\products\\5.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\products\\6.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\products\\7.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\products\\8.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\amna.jpg",
+      "PackagePath": "staticwebassets\\products\\amna.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\bed1.jpg",
+      "PackagePath": "staticwebassets\\products\\bed1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\chair1.jpg",
+      "PackagePath": "staticwebassets\\products\\chair1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\dfs1.PNG",
+      "PackagePath": "staticwebassets\\products\\dfs1.PNG"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\download.png",
+      "PackagePath": "staticwebassets\\products\\download.png"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\hrtime.PNG",
+      "PackagePath": "staticwebassets\\products\\hrtime.PNG"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img1.jpg",
+      "PackagePath": "staticwebassets\\products\\img1.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img10.jpg",
+      "PackagePath": "staticwebassets\\products\\img10.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img11.jpg",
+      "PackagePath": "staticwebassets\\products\\img11.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img12.jpg",
+      "PackagePath": "staticwebassets\\products\\img12.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img13.jpg",
+      "PackagePath": "staticwebassets\\products\\img13.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img19.jpg",
+      "PackagePath": "staticwebassets\\products\\img19.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img2.jpg",
+      "PackagePath": "staticwebassets\\products\\img2.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img20.jpg",
+      "PackagePath": "staticwebassets\\products\\img20.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\img8.jpg",
+      "PackagePath": "staticwebassets\\products\\img8.jpg"
+    },
+    {
+      "Id": "E:\\Sarfraz Data\\6th Semmester\\Web Networking\\FurnitureEmporim\\wwwroot\\products\\wood1.jpg",
+      "PackagePath": "staticwebassets\\products\\wood1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurnitureEmporim.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FurnitureEmporim.props",
+      "PackagePath": "build\\FurnitureEmporim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnitureEmporim.props",
+      "PackagePath": "buildMultiTargeting\\FurnitureEmporim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FurnitureEmporim.props",
+      "PackagePath": "buildTransitive\\FurnitureEmporim.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

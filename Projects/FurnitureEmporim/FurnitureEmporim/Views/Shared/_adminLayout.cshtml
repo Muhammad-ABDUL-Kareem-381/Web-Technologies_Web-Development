@@ -1,0 +1,58 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FurnitureEmporim</title>
+    <link rel="stylesheet" href="~/css/output.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/FurnitureEmporim.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <!--Header -->
+    <header>
+        <div class="w-full p-5 flex items-center bg-sky-300 text-white">
+            <a class="flex title-font font-medium items-center text-gray-900">
+                <span class="text-xl text-white">FurnitureEmporium</span>
+            </a>
+            <nav class="flex flex-wrap items-center text-base justify-center mx-auto space-x-5">
+                <a href="/Home/Index" class="relative px-3 py-2 hover:bg-sky-400 hover:text-white cursor-pointer rounded transition-all duration-300">Home</a>
+                <a href="/Products/AddProduct" class="relative px-3 py-2 hover:bg-sky-400 hover:text-white cursor-pointer rounded transition-all duration-300">Add Product</a>
+                <a href="/Products/viewProducts" class="relative px-3 py-2 hover:bg-sky-400 hover:text-white cursor-pointer rounded transition-all duration-300">Update Product</a>
+                <a href="/Products/viewProducts" class="relative px-3 py-2 hover:bg-sky-400 hover:text-white cursor-pointer rounded transition-all duration-300">Delete Product</a>
+                <a href="/Products/viewProducts" class="relative px-3 py-2 hover:bg-sky-400 hover:text-white cursor-pointer rounded transition-all duration-300">View Products</a>
+               
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
+                    <li class="dropdown-item">Welcome, Admin</li>
+                    
+
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" asp-action="Logout" asp-controller="User">Logout</a></li>
+                </ul>
+            
+            </nav>
+
+
+        </div>
+
+
+
+    </header>
+
+
+    <div>
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

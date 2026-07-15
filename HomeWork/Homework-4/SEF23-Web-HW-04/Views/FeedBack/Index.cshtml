@@ -1,0 +1,24 @@
+﻿@model SEF23_Web_HW_04.Models.FeedBack
+@{
+    // Set the page title for the browser tab
+    ViewData["Title"] = "Home Page";
+}
+
+@* Index page for Feedback system *@
+<html>
+    <head>
+        @* Head section can include meta tags, styles, or scripts if needed *@
+    </head>
+    <body>
+        <div class="text-center">
+            @* Main welcome heading *@
+            <h1> Welcome </h1>
+
+            @* Button to navigate to the Give Feedback form *@
+            <a class="btn btn-primary me-2" asp-controller="FeedBack" asp-action="GiveFeedBack"> Give Feedback </a>
+
+            @* Button to view all submitted feedbacks *@
+            <a class="btn btn-success" asp-controller="FeedBack" asp-action="AllFeedbacks"> View All Feedbacks </a>
+        </div>
+    </body>
+</html>

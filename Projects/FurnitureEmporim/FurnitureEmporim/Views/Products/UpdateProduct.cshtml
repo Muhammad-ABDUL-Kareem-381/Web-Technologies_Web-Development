@@ -1,0 +1,104 @@
+﻿@using FurnitureEmporim.Models.Entities
+@model FurnitureEmporim.Models.Entities.Product
+
+@{
+    
+    Layout = "_adminLayout";
+ 
+
+    ViewBag.Title = "Update Product";
+}
+
+
+    <form asp-action="UpdateProduct" method="post" enctype="multipart/form-data" class="space-y-4">
+        <!-- ID -->
+        @if (!string.IsNullOrEmpty(ViewBag.Showmsg))
+        {
+            <p style="color: red;" text-ali>@ViewBag.Showmsg</p>
+        }
+        <div>
+            <label asp-for="Id" class="block text-sm font-medium text-gray-700">ID</label>
+            <input readonly value="@ViewData["ProductID"]" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" />
+        </div>
+
+        <!-- Name -->
+        <div>
+            <label asp-for="Name" class="block text-sm font-medium text-gray-700">Name</label>
+            <input asp-for="Name" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" />
+            <span asp-validation-for="Name" class="text-red-500 text-sm"></span>
+        </div>
+
+        <!-- Price -->
+        <div>
+            <label asp-for="Price" class="block text-sm font-medium text-gray-700">Price</label>
+            <input asp-for="Price" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" />
+            <span asp-validation-for="Price" class="text-red-500 text-sm"></span>
+        </div>
+
+        <!-- Description -->
+        <div>
+            <label asp-for="Description" class="block text-sm font-medium text-gray-700">Description</label>
+            <textarea asp-for="Description" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"></textarea>
+            <span asp-validation-for="Description" class="text-red-500 text-sm"></span>
+        </div>
+
+        <!-- Category -->
+        <div>
+            <label asp-for="Category" class="block text-sm font-medium text-gray-700">Category</label>
+            <select asp-for="Category" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                <option value="">Select a category</option>
+                <option value="Sofa">Sofa</option>
+                <option value="Bed">Bed</option>
+                <option value="Table">Table</option>
+                <option value="Safe">Safe</option>
+                <!-- Add more options as needed -->
+            </select>
+            <span asp-validation-for="Category" class="text-red-500 text-sm"></span>
+        </div>
+
+        <div class="row mb-3">
+            <div class="offset-sm-4 col-sm-8">
+                <img src="/products/@ViewData["ImageFileName"].ToString()" width="150" alt="Alternate Text" />
+            </div>
+        </div>
+
+        <!-- Image File -->
+        <div>
+            <label asp-for="ImageFile" class="block text-sm font-medium text-gray-700">Upload Image</label>
+            <input asp-for="ImageFile" type="file" class="mt-1 block w-full text-sm text-gray-500 border border-gray-300 rounded-md cursor-pointer focus:outline-none focus:ring-indigo-500 focus:border-indigo-500" />
+            <span asp-validation-for="ImageFile" class="text-red-500 text-sm"></span>
+        </div>
+
+
+
+        <!-- Created At -->
+        <div>
+            <label asp-for="CreatedAt" class="block text-sm font-medium text-gray-700">Created At</label>
+            <input asp-for="CreatedAt" type="date" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" />
+            <span asp-validation-for="CreatedAt" class="text-red-500 text-sm"></span>
+        </div>
+
+        <!-- Submit Button -->
+
+    <div class="row">
+
+        <div class="mt-8">
+            <form asp-action="viewProducts" asp-controller="Products" method="post">
+                <input type="hidden" name="id" />
+                <button type="submit" class="bg-sky-300 text-white py-2 px-4 rounded w-full hover:bg-sky-400">
+                    SUBMIT
+                </button>
+            </form>
+        </div>
+
+        <div class="col-sm-4 d-grid">
+            <a class="btn btn-primary" asp-controller="User" asp-action="GuestWelcome" role="button">
+                Cancel
+            </a>
+        </div>
+    </div>
+    </form>
+
+
+
+

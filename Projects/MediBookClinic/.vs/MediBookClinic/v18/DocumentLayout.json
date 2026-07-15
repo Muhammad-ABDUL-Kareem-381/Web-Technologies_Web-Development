@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|c:\\users\\muthe\\onedrive\\desktop\\web technologies project\\medibookclinic\\medibookclinic\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|solutionrelative:medibookclinic\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|c:\\users\\muthe\\onedrive\\desktop\\web technologies project\\medibookclinic\\medibookclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|solutionrelative:medibookclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|c:\\users\\muthe\\onedrive\\desktop\\web technologies project\\medibookclinic\\medibookclinic\\models\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|solutionrelative:medibookclinic\\models\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|c:\\users\\muthe\\onedrive\\desktop\\web technologies project\\medibookclinic\\medibookclinic\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|solutionrelative:medibookclinic\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|c:\\users\\muthe\\onedrive\\desktop\\web technologies project\\medibookclinic\\medibookclinic\\authorization\\handlers\\reviewoperationauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1169669-AC75-42DC-8B51-6E1C41AC503B}|MediBookClinic\\MediBookClinic.csproj|solutionrelative:medibookclinic\\authorization\\handlers\\reviewoperationauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MediBookClinic\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MediBookClinic\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T11:40:09.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewOperationAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Authorization\\Handlers\\ReviewOperationAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "MediBookClinic\\Authorization\\Handlers\\ReviewOperationAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Authorization\\Handlers\\ReviewOperationAuthorizationHandler.cs",
+              "RelativeToolTip": "MediBookClinic\\Authorization\\Handlers\\ReviewOperationAuthorizationHandler.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAApwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T18:03:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Models\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "MediBookClinic\\Models\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Models\\Services\\EmailService.cs",
+              "RelativeToolTip": "MediBookClinic\\Models\\Services\\EmailService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:58:26.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Program.cs",
+              "RelativeDocumentMoniker": "MediBookClinic\\Program.cs",
+              "ToolTip": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Program.cs",
+              "RelativeToolTip": "MediBookClinic\\Program.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAAwG4BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:48:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MediBookClinic\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\muthe\\OneDrive\\Desktop\\Web Technologies Project\\MediBookClinic\\MediBookClinic\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MediBookClinic\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAgwJcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T20:09:38.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿@* View for displaying details of a single travel package *@
+@{
+    // Set the page title shown in the layout
+    ViewData["Title"] = "Travel Package Details";
+    // Retrieve the package object passed via ViewBag from the controller
+    var p = ViewBag.Package;
+}
+
+<h1 class="text-center">Travel Package Details</h1>
+
+<html>
+    <head>
+        @* Head left intentionally empty - layout may provide styles/scripts *@
+    </head>
+    <body>
+        <div>
+            @* Display package name as the main heading *@
+            <h2>@p.PackageName</h2>
+
+            @* Display basic package properties *@
+            <p><b>Destination:</b> @p.Destination</p>
+            <p><b>Duration:</b> @p.Duration days</p>
+            <p><b>Price:</b> Rs.@p.Price</p>
+            <p><b>Available Seats:</b> @p.AvailableSeats</p>
+
+            @* Format the departure date to a short date string *@
+            <p><b>Departure Date:</b> @p.DepartureDate.ToShortDateString()</p>
+        </div>
+
+        @* Navigation links: back to list and proceed to booking for this package *@
+        <a class="btn btn-primary btn-sm" asp-controller="Travel" asp-action="Index">Back to List</a>
+        <a class="btn btn-secondary btn-sm" asp-controller="Travel" asp-action="Book" asp-route-id="@p.PackageId">Book Now</a>
+     </body>
+</html>
